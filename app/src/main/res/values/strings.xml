@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Images Management May Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share_file">Share File</string>
+    <string name="rename_file">Rename File</string>
+    <string name="add_bookmark">Add BookMark</string>
+</resources>
